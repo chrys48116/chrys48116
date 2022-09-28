@@ -1,6 +1,6 @@
 ### Olá, eu sou Chrystian Almeida👋
 
-- 🔭 Atualmente procurando vagas de emprego
+- 🔭 Atualmente trabalhando na CBTU
 - 🌱 Estudando React para API
 - 👯 Procurando ajuda para me aperfeiçoar como programador frond-end
 - 🤔 Contate-me por email: chrys481@gmail.com

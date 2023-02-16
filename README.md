@@ -1,7 +1,8 @@
 ### Olá, eu sou Chrystian Almeida👋
 
 - 🔭 Atualmente trabalhando na CBTU
-- 🌱 Estudando React para API
+- 🌱 Estudando Django
+- ✍ Desenvolvedor Python Junior 
 - 👯 Procurando ajuda para me aperfeiçoar como programador frond-end
 - 🤔 Contate-me por email: chrys481@gmail.com
 

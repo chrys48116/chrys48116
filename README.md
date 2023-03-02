@@ -29,4 +29,4 @@
   <a href = "mailto:contatochrys481@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
 
-  ![Snake animation](https://github.com/chrys48116/chrys48116/blob/output/github-contribution-grid-snake.svg)
+  

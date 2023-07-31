@@ -1,9 +1,9 @@
 ### Olá, eu sou Chrystian Almeida👋
 
-- 🔭 Atualmente trabalhando na CBTU
-- 🌱 Estudando Django
-- ✍ Desenvolvedor Python Junior 
-- 👯 Procurando ajuda para me aperfeiçoar como programador back-end
+- 🔭 Atualmente trabalhando na Quiver.trade
+- 🌱 Estudando Elixir
+- ✍ Desenvolvedor Junior 
+- 👯 Me especializando em Python(Django) e Elixir(Phoenix)
 - 🤔 Contate-me por email: chrys481@gmail.com
 
 <div align="center">

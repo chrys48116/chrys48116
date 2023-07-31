@@ -26,6 +26,8 @@
   <img align="center" alt="Chrys-Mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Chrys-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Chrys-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Chrys-Elixir" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">
+  <img align="center" alt="Chrys-Phoenix" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phoenix/phoenix-original.svg">
 </div>
   
   ##

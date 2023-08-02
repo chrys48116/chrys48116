@@ -12,7 +12,7 @@
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrys48116&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
   
-![Snake animation](https://github.com/chrys48116/chrys48116/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/chrys48116/chrys48116/blob/output/github-contribution-grid-snake.svg)
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Chrys-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

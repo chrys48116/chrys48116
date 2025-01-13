@@ -1,8 +1,8 @@
 ### Olá, eu sou Chrystian Almeida👋
 
 - 🔭 Atualmente trabalhando na Quiver.trade
-- 🌱 Estudando Elixir
-- ✍ Desenvolvedor Junior 
+- 🌱 Estudando IA
+- ✍ Desenvolvedor Pleno 
 - 👯 Me especializando em Python(Django) e Elixir(Phoenix)
 - 🤔 Contate-me por email: chrys481@gmail.com
 

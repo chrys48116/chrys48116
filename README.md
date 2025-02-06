@@ -1,10 +1,35 @@
-### Olá, eu sou Chrystian Almeida👋
+# Hi, I'm Chrystian Almeida! 👋  
 
-- 🔭 Atualmente trabalhando na Quiver.trade
-- 🌱 Estudando IA
-- ✍ Desenvolvedor Pleno 
-- 👯 Me especializando em Python(Django) e Elixir(Phoenix)
-- 🤔 Contate-me por email: chrys481@gmail.com
+🚀 **Back-End Developer | Elixir | Python | Blockchain | Web3**  
+
+🔹 Currently working at **Quiver.trade / Futarchy Labs**  
+🌱 Exploring **AI** and advanced **system optimization**  
+🛠️ Specializing in **Elixir (Phoenix) & Python (Django)**  
+📊 Experienced with **PostgreSQL, BigQuery, Docker, and AWS**  
+⚡ Passionate about **high-performance APIs, automation, and Web3 technologies**  
+
+---
+
+## 📩 Contact Me  
+📧 **Email:** [chrys481@gmail.com](mailto:chrys481@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/chrystian-almeida-b8a6a5191](https://www.linkedin.com/in/chrystian-almeida-b8a6a5191/)  
+📄 **Resume:** [Download CV](#) *(Replace `#` with your resume link!)*  
+
+---
+
+### 🔥 **Technologies & Tools**  
+- **Languages:** Elixir, Python, JavaScript  
+- **Frameworks:** Phoenix, Django, GraphQL  
+- **Databases:** PostgreSQL, BigQuery  
+- **Infrastructure:** Docker, AWS, Azure  
+- **Other:** WebSockets, CI/CD, Automation  
+
+---
+
+### 🌎 **Let's Connect!**  
+I’m always open to collaborating on **exciting projects** and contributing to **open-source initiatives**. Feel free to **reach out** or check out my work! 🚀  
+
+---
 
 <div align="center">
   <a href="https://github.com/chrys48116">

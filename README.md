@@ -13,7 +13,6 @@
 ## 📩 Contact Me  
 📧 **Email:** [chrys481@gmail.com](mailto:chrys481@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/chrystian-almeida-b8a6a5191](https://www.linkedin.com/in/chrystian-almeida-b8a6a5191/)  
-📄 **Resume:** [Download CV](#) *(Replace `#` with your resume link!)*  
 
 ---
 

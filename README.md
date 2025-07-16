@@ -4,7 +4,7 @@
 
 🔹 Currently working at **Quiver.trade / Futarchy Labs**  
 🌱 Exploring **AI** and advanced **system optimization**  
-🛠️ Specializing in **Elixir (Phoenix) & Python (Django)**  
+🛠️ Specializing in **Elixir (Phoenix), Python (Django) & Web3**  
 📊 Experienced with **PostgreSQL, BigQuery, Docker, and AWS**  
 ⚡ Passionate about **high-performance APIs, automation, and Web3 technologies**  
 
